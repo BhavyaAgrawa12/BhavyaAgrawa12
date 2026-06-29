@@ -59,7 +59,7 @@ Building scalable web applications with modern technologies and continuously lea
 ## Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,postgres" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ---
