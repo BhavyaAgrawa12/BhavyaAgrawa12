@@ -23,8 +23,6 @@ I enjoy building scalable web applications, backend systems, and modern SaaS pro
 
 ## 🚀 Featured Projects
 
-### 🏨 Hotel PMS
-A modern Hotel Management System with booking, rooms, customers, staff, billing, and dashboard.
 
 ### 📋 TaskFlow
 AI-powered task management platform with Kanban Boards.
@@ -42,15 +40,14 @@ Discover events from multiple platforms using Python.
 - AWS
 - Docker
 - PostgreSQL
-- System Design
 
 ---
 
 ## 📫 Contact
 
-Email: your@email.com
+Email: agrawalbhavya563@gmail.com
 
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/bhavya-agrawal-212052291
 
 Portfolio:
 https://yourportfolio.vercel.app
