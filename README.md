@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Bhavya Agrawal
 
-<!--
-**BhavyaAgrawa12/BhavyaAgrawa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer from India
 
-Here are some ideas to get you started:
+I enjoy building scalable web applications, backend systems, and modern SaaS products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- React
+- Node.js
+- Express
+- Prisma
+- MySQL
+- MongoDB
+- TailwindCSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 Hotel PMS
+A modern Hotel Management System with booking, rooms, customers, staff, billing, and dashboard.
+
+### 📋 TaskFlow
+AI-powered task management platform with Kanban Boards.
+
+### 🔒 Secure Chat
+End-to-End encrypted messaging application.
+
+### 🎉 Pixie Event Discovery
+Discover events from multiple platforms using Python.
+
+---
+
+## 🌱 Currently Learning
+
+- AWS
+- Docker
+- PostgreSQL
+- System Design
+
+---
+
+## 📫 Contact
+
+Email: your@email.com
+
+LinkedIn: linkedin.com/in/yourprofile
+
+Portfolio:
+https://yourportfolio.vercel.app
